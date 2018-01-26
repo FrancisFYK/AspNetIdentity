@@ -17,7 +17,7 @@
     <Owners>BaanBu</Owners>
     <Language>C#</Language>
     <Summary>Owin Identity SDK WeChat for C#</Summary>
-    <PackageLicenseUrl>https://github.com/FrancisFYK/AspNetIdentity/LICENSE.txt</PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/FrancisFYK/AspNetIdentity/blob/master/LICENSE.txt</PackageLicenseUrl>
     <ProjectUrl>https://github.com/FrancisFYK/AspNetIdentity</ProjectUrl>
     <Title>BaanBu.Owin.Security.QQ.dll</Title>
     <PackageReleaseNotes>
