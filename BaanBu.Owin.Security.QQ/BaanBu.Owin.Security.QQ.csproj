@@ -11,7 +11,7 @@
       BaanBu.Owin.Security.QQ
     </Description>
     <Copyright>BaanBu Copyright © 2017~2019</Copyright>
-    <PackageTags>Identity,Owin,WeChat,QQ,微信</PackageTags>
+    <PackageTags>Identity,Owin,WeChat,QQ,微信,Asp.Net</PackageTags>
 
     <Authors>Francis Fu</Authors>
     <Owners>BaanBu</Owners>
@@ -23,6 +23,7 @@
     <PackageReleaseNotes>
       v1.0.0        增加QQ授权登录
     </PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/FrancisFYK/AspNetIdentity</PackageProjectUrl>
     <RepositoryUrl>https://github.com/FrancisFYK/AspNetIdentity</RepositoryUrl>
   </PropertyGroup>
 

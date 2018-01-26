@@ -11,18 +11,20 @@
       BaanBu.Owin.Security.WeChat
     </Description>
     <Copyright>BaanBu Copyright © 2017~2019</Copyright>
-    <PackageTags>Identity,Owin,WeChat,QQ,微信</PackageTags>
+    <PackageTags>Identity,Owin,WeChat,QQ,微信,Asp.Net</PackageTags>
 
     <Authors>Francis Fu</Authors>
     <Owners>BaanBu</Owners>
     <Language>C#</Language>
     <Summary>Owin AspNetIdentity SDK WeChat for C#</Summary>
     <PackageLicenseUrl>https://github.com/FrancisFYK/AspNetIdentity/blob/master/LICENSE.txt</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/FrancisFYK/AspNetIdentity</PackageProjectUrl>
     <ProjectUrl>https://github.com/FrancisFYK/AspNetIdentity</ProjectUrl>
     <Title>BaanBu.Owin.Security.WeChat.dll</Title>
     <PackageReleaseNotes>
       v1.0.0        增加微信授权登录
     </PackageReleaseNotes>
+
     <RepositoryUrl>https://github.com/FrancisFYK/AspNetIdentity</RepositoryUrl>
   </PropertyGroup>
 
