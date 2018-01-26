@@ -263,4 +263,4 @@ __pycache__/
 .vs/
 /PublishOutput
 /client/client.rar
-/BaanBu.Identity.BuildOutPut/*
+/BaanBu.AspNetIdentity.BuildOutPut/*

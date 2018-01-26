@@ -14,8 +14,8 @@
     <Copyright>BaanBu Copyright © 2017~2019</Copyright>
     <PackageTags>Identity,Owin,WeChat,QQ,微信</PackageTags>
 
-    <Authors>Jeffrey Su</Authors>
-    <Owners>Senparc</Owners>
+    <Authors>Francis Fu</Authors>
+    <Owners>BaanBu</Owners>
     <PackageLicenseUrl> https://github.com/FrancisFYK/AspNetIdentity</PackageLicenseUrl>
     <ProjectUrl>https://github.com/FrancisFYK/AspNetIdentity</ProjectUrl>
     <Title>BaanBu.Owin.Security.QQ.dll</Title>
