@@ -7,8 +7,8 @@
     <RootNamespace>BaanBu.Owin.Security.QQ</RootNamespace>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Description>
-      BaanBu.Identity SDK 开源项目：
-            BaanBu.Owin.Security.QQ
+      BaanBu.AspNetIdentity SDK 开源项目：
+      BaanBu.Owin.Security.QQ
     </Description>
     <Copyright>BaanBu Copyright © 2017~2019</Copyright>
     <PackageTags>Identity,Owin,WeChat,QQ,微信</PackageTags>
@@ -16,7 +16,7 @@
     <Authors>Francis Fu</Authors>
     <Owners>BaanBu</Owners>
     <Language>C#</Language>
-    <Summary>Owin Identity SDK WeChat for C#</Summary>
+    <Summary>AspNetIdentity SDK WeChat for C#</Summary>
     <PackageLicenseUrl>https://github.com/FrancisFYK/AspNetIdentity/blob/master/LICENSE.txt</PackageLicenseUrl>
     <ProjectUrl>https://github.com/FrancisFYK/AspNetIdentity</ProjectUrl>
     <Title>BaanBu.Owin.Security.QQ.dll</Title>
