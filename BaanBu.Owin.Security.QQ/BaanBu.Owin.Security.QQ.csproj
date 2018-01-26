@@ -1,7 +1,33 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net45</TargetFrameworks>
+    <TargetFrameworks>net45;</TargetFrameworks>
+    <Version>1.0.0</Version>
+    <AssemblyName>BaanBu.Owin.Security.QQ</AssemblyName>
+    <RootNamespace>BaanBu.Owin.Security.QQ</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>
+      BaanBu.Identity SDK 开源项目：
+            BaanBu.Owin.Security.QQ
+      https://github.com/FrancisFYK/AspNetIdentity
+    </Description>
+    <Copyright>BaanBu Copyright © 2017~2019</Copyright>
+    <PackageTags>Identity,Owin,WeChat,QQ,微信</PackageTags>
+
+    <Authors>Jeffrey Su</Authors>
+    <Owners>Senparc</Owners>
+    <PackageLicenseUrl> https://github.com/FrancisFYK/AspNetIdentity</PackageLicenseUrl>
+    <ProjectUrl>https://github.com/FrancisFYK/AspNetIdentity</ProjectUrl>
+    <Title>BaanBu.Owin.Security.QQ.dll</Title>
+    <PackageReleaseNotes>
+      v1.0.0        增加QQ授权登录
+    </PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/FrancisFYK/AspNetIdentity</RepositoryUrl>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>..\BaanBu.Identity.BuildOutPut</OutputPath>
+    <DefineConstants>TRACE;RELEASE</DefineConstants>
   </PropertyGroup>
 
   <ItemGroup>
