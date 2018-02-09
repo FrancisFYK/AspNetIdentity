@@ -5,15 +5,15 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaanBu.Samples", "BaanBu.Samples\BaanBu.Samples.csproj", "{BA45FDB9-0EDE-4384-95D8-8E2E5CAA20B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaanBu.Samples.Tests", "BaanBu.Samples.Tests\BaanBu.Samples.Tests.csproj", "{E5B8F824-4E4F-4EE2-83E4-99B5E20F22DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaanBu.Samples.Tests", "test\BaanBu.Samples.Tests\BaanBu.Samples.Tests.csproj", "{E5B8F824-4E4F-4EE2-83E4-99B5E20F22DA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaanBu.Owin.Security.QQ", "BaanBu.Owin.Security.QQ\BaanBu.Owin.Security.QQ.csproj", "{C87C92BB-49C8-4035-B88C-8F3BEDF8AEE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaanBu.Owin.Security.QQ", "src\BaanBu.Owin.Security.QQ\BaanBu.Owin.Security.QQ.csproj", "{C87C92BB-49C8-4035-B88C-8F3BEDF8AEE3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaanBu.Owin.Security.WeChat", "BaanBu.Owin.Security.WeChat\BaanBu.Owin.Security.WeChat.csproj", "{B930394B-F405-4FA9-AF79-57AEFFF6C64B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaanBu.Owin.Security.WeChat", "src\BaanBu.Owin.Security.WeChat\BaanBu.Owin.Security.WeChat.csproj", "{B930394B-F405-4FA9-AF79-57AEFFF6C64B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{BDF77246-80D8-4161-80E4-8B229DFF39A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaanBu.Owin.Security.QQ.Test", "BaanBu.Owin.Security.QQ.Test\BaanBu.Owin.Security.QQ.Test.csproj", "{1E050EAC-6F8D-4BB5-8676-3E0FB45D8755}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaanBu.Owin.Security.QQ.Test", "test\BaanBu.Owin.Security.QQ.Test\BaanBu.Owin.Security.QQ.Test.csproj", "{1E050EAC-6F8D-4BB5-8676-3E0FB45D8755}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3D54FF4C-A10D-432F-9A98-5BBFADA79FAC}"
 EndProject

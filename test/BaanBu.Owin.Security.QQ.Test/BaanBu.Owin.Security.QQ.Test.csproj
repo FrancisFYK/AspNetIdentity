@@ -66,7 +66,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BaanBu.Owin.Security.QQ\BaanBu.Owin.Security.QQ.csproj">
+    <ProjectReference Include="..\..\src\BaanBu.Owin.Security.QQ\BaanBu.Owin.Security.QQ.csproj">
       <Project>{C87C92BB-49C8-4035-B88C-8F3BEDF8AEE3}</Project>
       <Name>BaanBu.Owin.Security.QQ</Name>
     </ProjectReference>

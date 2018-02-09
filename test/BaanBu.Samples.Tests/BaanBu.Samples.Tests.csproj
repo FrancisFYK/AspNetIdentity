@@ -99,7 +99,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BaanBu.Samples\BaanBu.Samples.csproj">
+    <ProjectReference Include="..\..\BaanBu.Samples\BaanBu.Samples.csproj">
       <Project>{BA45FDB9-0EDE-4384-95D8-8E2E5CAA20B5}</Project>
       <Name>BaanBu.IdentityWeb</Name>
     </ProjectReference>

@@ -267,11 +267,11 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BaanBu.Owin.Security.QQ\BaanBu.Owin.Security.QQ.csproj">
+    <ProjectReference Include="..\src\BaanBu.Owin.Security.QQ\BaanBu.Owin.Security.QQ.csproj">
       <Project>{c87c92bb-49c8-4035-b88c-8f3bedf8aee3}</Project>
       <Name>BaanBu.Owin.Security.QQ</Name>
     </ProjectReference>
-    <ProjectReference Include="..\BaanBu.Owin.Security.WeChat\BaanBu.Owin.Security.WeChat.csproj">
+    <ProjectReference Include="..\src\BaanBu.Owin.Security.WeChat\BaanBu.Owin.Security.WeChat.csproj">
       <Project>{b930394b-f405-4fa9-af79-57aefff6c64b}</Project>
       <Name>BaanBu.Owin.Security.WeChat</Name>
     </ProjectReference>
